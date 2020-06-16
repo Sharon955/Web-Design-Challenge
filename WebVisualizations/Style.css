@@ -1,14 +1,19 @@
-.navbar {
-    padding: 10px;
-}
 .card-header-landing {
-    font-size: x-large;
+    font-size: 30px;
     font-weight: bold;
-    margin-left: 10px;
+    padding: 10px
+}
+
+h2 {
+    padding: 10px;
 }
 
 p {
-    margin-left: 10px;
+    padding: 10px;
 }
+.navbar {
+    padding: 10px;
+}
+
 
 
